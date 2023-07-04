@@ -1,0 +1,139 @@
+.MainBody{
+background: url(./images/bg-pattern-bottom-desktop.svg),url(./images/bg-pattern-top-desktop.svg);
+}
+
+.headerOne{
+    position: absolute;
+    left: 9pc;
+    top:4pc;
+
+
+}
+.headerTwo{
+    font-size: 3pc;
+    color:  hsl(300, 43%, 22%);
+
+
+}
+.headerThree{
+    color:  hsl(333, 10%, 51%)
+}
+.Star{
+
+    background:url(./images/icon-star.svg);
+    width: 7pc;
+    height: 1pc;
+    position: absolute;
+    top: 0.5em;
+
+}
+.headBox{
+   
+    width: 20pc;
+    height: 2pc;
+    background-color: rgb(241, 229, 215);
+    border-radius: 2pc;
+  
+    position: absolute;
+    left : 50pc;
+    top :7pc;
+}
+
+.headBox1{
+   
+    width: 20pc;
+    height: 2pc;
+    background-color: rgb(241, 229, 215);
+    border-radius: 2pc;
+  
+    position: absolute;
+    left : 53pc;
+    top :11pc;
+}
+
+.headBox2{
+   
+    width: 20pc;
+    height: 2pc;
+    background-color: rgb(241, 229, 215);
+    border-radius: 2pc;
+  
+    position: absolute;
+    left : 60pc;
+    top :15pc;
+}
+.rated{
+    position: absolute;
+    left:8pc;
+    top: 0.5em;
+    color: rgb(161, 138, 182);
+}
+.Box1{
+    width: 17pc;
+    height: 12pc;
+    background-color:hsl(302, 74%, 22%) ;
+    border-radius: 10px;
+    position: absolute;
+    top:22pc;
+    left: 10pc;
+   
+   
+}
+.Box2{
+    width: 17pc;
+    height: 12pc;
+    background-color:hsl(302, 74%, 22%) ;
+    border-radius: 10px;
+    position: absolute;
+    top:24pc;
+    left: 29pc;
+}
+.Box3{
+    width: 17pc;
+    height: 12pc;
+    background-color:hsl(302, 74%, 22%) ;
+    border-radius: 10px;
+    position: absolute;
+    top:26pc;
+    left: 48pc;
+}
+.image1{
+    background-image:url(./images/image-colton.jpg);
+    background-repeat: no-repeat;
+    height: 4pc;
+    width: 4pc;
+    border-radius: 2pc;
+    position: absolute;
+    top:1pc;
+   
+}
+.image2{
+    background-image:url(./images/image-anne.jpg);
+    background-repeat: no-repeat;
+    height: 4pc;
+    width: 4pc;
+    border-radius: 2pc;
+    position: absolute;
+    top:1pc;
+   
+}
+.image3{
+    background-image:url(./images/image-irene.jpg);
+    background-repeat: no-repeat;
+    height: 4pc;
+    width: 4pc;
+    border-radius: 2pc;
+    position: absolute;
+    top:1pc;
+   
+}
+.Colton{
+    position: absolute;
+    left: 5pc;
+    top:2pc;
+    color: aliceblue;
+}
+.Subject1{
+    position: absolute;
+    top:6pc;
+}
